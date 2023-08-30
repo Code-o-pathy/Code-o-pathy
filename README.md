@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c,cpp, java.
 - 💞️ I’m looking to collaborate on small internships.
-- 📫 How to reach me mrakopay@gmail.com
+- 📫 How to reach me ay003735@gmail.com
 
 <!---
 Code-o-pathy/Code-o-pathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
