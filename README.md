@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-o-pathy
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning javaand react.
+- 🌱 I’m currently learning java and react.
 - 💞️ I’m looking for internships.
 - 📫 How to reach me- ay003735@gmail.com
 
